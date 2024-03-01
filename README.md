@@ -39,5 +39,3 @@ The architecture of the neural network (NN) model is as follows:
     - The last convolutional layer (`conv4`) produces **10 output channels**.
     - The output is reshaped (`x.view(-1, 10)`) to match the desired output size.
     - Finally, the `log_softmax` function is applied to obtain the log probabilities of different classes.
-
-Feel free to customize this explanation further based on your project's specifics. Happy documenting! 🚀
