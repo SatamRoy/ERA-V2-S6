@@ -1,12 +1,12 @@
 # ERA-V2-S6
-## S6 - Assignment
+## S6 - Assignment (Part 1)
 
 * Added Excel file with the formulas and calculatiosn
 * Added word document with explantaion of major steps
 * following is the imgae with screenshot ![Screenshot](https://github.com/SatamRoy/ERA-V2-S6/blob/main/S6%20-%20Assignment%20-BP_page-0001.jpg)
 
 
-# ERA-V2-S6 - CNN Model Explanation
+# ERA-V2-S6 - CNN Model Explanation (Part 2)
 
 The architecture of the neural network (NN) model is as follows:
 
