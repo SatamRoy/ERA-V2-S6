@@ -9,10 +9,10 @@
 # ERA-V2-S6 - CNN Model Explanation 
 The architecture of the NN Model is as follows:
 ##1.	Convolutional Layers:
-**	Convolutional layers (Conv2d) are used for feature extraction in image data.
-**	The first convolutional layer (conv1) takes a single-channel input (like grayscale images) and produces 32 output channels.
-**	The second convolutional layer (conv2) also has 32 output channels.
-**	The third convolutional layer (conv3) produces 20 output channels.
+*	Convolutional layers (Conv2d) are used for feature extraction in image data.
+*		The first convolutional layer (conv1) takes a single-channel input (like grayscale images) and produces 32 output channels.
+*		The second convolutional layer (conv2) also has 32 output channels.
+*		The third convolutional layer (conv3) produces 20 output channels.
 ##2.	Activation Function:
 **	After each convolutional layer, the ReLU activation function is applied. It introduces non-linearity to the model.
 ##3.	Normalization:
